@@ -1,6 +1,6 @@
-# Hey there 👋
+# Hey there!
 
-🐹 Backend engineer in love with **Go**, 5+ years of building fast, simple and reliable services<br>
+🐰 Backend engineer in love with **Go**, 5+ years of building fast, simple and reliable services<br>
 🦀 Also writing **Rust** and **C**, because I like knowing what the machine is actually doing<br>
 🎮 Currently playing with graphics, ray tracing and game dev<br>
 🎩 Fun fact: I'm a magician, and I live with 4 bunnies and a cat
