@@ -15,6 +15,7 @@
 | 🖤 | [noa-black-theme](https://github.com/kaitsubaka/noa-black-theme) | Pure black VS Code theme with purple and red syntax highlighting |
 | 🖥️ | [terminal-start](https://github.com/kaitsubaka/terminal-start) | A bash-flavored start page for Firefox |
 | 🎞️ | [ASCIIFinite](https://github.com/kaitsubaka/ASCIIFinite) | Plays videos as ASCII art in your terminal |
+| 🏮 | [yabai](https://github.com/kaitsubaka/yabai) | Yet Another Basic Arch Linux Installer |
 
 ## 💻 Stack
 
